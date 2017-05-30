@@ -3,6 +3,9 @@
 zhangyong0604@126.com
 版权没有，欢迎盗版，要是有用，给一个星.
 
+和原来比较只是在build目录下加了几行node 代码
+另外注意要引入glob库
+
 ## Build Setup
 
 ``` bash
